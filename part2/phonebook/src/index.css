@@ -1,0 +1,32 @@
+body, html{
+  /* margin: 0; */
+  padding: 0;
+  box-sizing: border-box;
+}
+.contact-details{
+  display: flex;
+  gap: 0.3rem;
+  align-items: center;
+}
+.contact-details button{
+  height: fit-content;
+}
+
+.error {
+  color: red;
+  background: lightgrey;
+  font-size: 20px;
+  border-style: solid;
+  border-radius: 5px;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+.confirm{
+  color: green;
+  background: lightgrey;
+  font-size: 20px;
+  border-style: solid;
+  border-radius: 5px;
+  padding: 10px;
+  margin-bottom: 10px;
+}
