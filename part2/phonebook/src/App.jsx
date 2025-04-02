@@ -113,7 +113,6 @@ const App = ({ people }) => {
           // }
         })
         .catch((error) => {
-          // console.log("Contact was already deleted from the server.");
           setPersons(persons.filter((p) => p.id !== id));
           setErrorMessage("Contact was already removed from server");
           setTimeout(() => {
