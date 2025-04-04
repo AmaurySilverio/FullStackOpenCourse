@@ -1,6 +1,5 @@
 const express = require("express");
 const morgan = require("morgan");
-const cors = require("cors");
 
 const app = express();
 
@@ -8,7 +7,6 @@ const app = express();
 app.use(express.static("dist"));
 
 // Middleware to use and allow for requests from all origins
-app.use(cors());
 
 // Middleware to parse JSON request body
 app.use(express.json());
