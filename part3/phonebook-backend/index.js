@@ -4,6 +4,9 @@ const cors = require("cors");
 
 const app = express();
 
+//
+app.use(express.static("dist"));
+
 // Middleware to use and allow for requests from all origins
 app.use(cors());
 
