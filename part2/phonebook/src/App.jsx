@@ -6,7 +6,7 @@ import axios from "axios";
 import personService from "./services/persons";
 import Notification from "./components/Notification";
 
-const App = ({ people }) => {
+const App = () => {
   const [persons, setPersons] = useState([]);
   const [newName, setNewName] = useState("");
   const [newNumber, setNewNumber] = useState("");
