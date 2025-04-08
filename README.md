@@ -6,6 +6,8 @@
 
 Full Stack Open is a free, open-source online course created by the University of Helsinki that teaches modern web development with a focus on JavaScript and React.
 
+A link to the course can be found [here](https://fullstackopen.com/en/)
+
 ## Course Contents
 
 ### Part 0: <ins>Fundamentals of Web Apps</ins>
