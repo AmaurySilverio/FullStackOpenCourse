@@ -6,7 +6,7 @@
 
 Full Stack Open is a free, open-source online course created by the University of Helsinki that teaches modern web development with a focus on JavaScript and React.
 
-A link to the course can be found [here](https://fullstackopen.com/en/)
+A link to the course can be found [here](https://fullstackopen.com/en/).
 
 ## Course Contents
 
@@ -44,7 +44,7 @@ A link to the course can be found [here](https://fullstackopen.com/en/)
 - [ ] Implementing User Authentication and Authorization
 - [ ] Token-Based Authentication
 
-<ins>**Link to application created from exercises in parts 0 - 4**</ins>: https://fso-phonebook-dfdu.onrender.com/
+A Link to the application created from exercises in parts 0 - 4 can be found [here](https://fso-phonebook-dfdu.onrender.com/).
 
 <!-- ### Part 5: Testing React Applications
 ### Part 6: Advanced State Management
