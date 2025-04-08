@@ -9,39 +9,39 @@ Link to application: https://fso-phonebook-dfdu.onrender.com/
 
 ## Course Contents
 
-### Part 0: Fundamentals of Web Apps
+### <ins>Part 0: Fundamentals of Web Apps</ins>
 
-[x] General Information
-[x] Fundamentals of Web Applications
+- [x] General Information
+- [x] Fundamentals of Web Applications
 
-### Part 1: Introduction to React
+### <ins>Part 1: Introduction to React</ins>
 
-[x] Introduction to React
-[x] JavaScript Essentials
-[x] Component State and Event Handlers
-[x]Complex State Management and Debugging React Applications
+- [x] Introduction to React
+- [x] JavaScript Essentials
+- [x] Component State and Event Handlers
+- [x]Complex State Management and Debugging React Applications
 
-### Part 2: Communicating with the Server
+### <ins>Part 2: Communicating with the Server</ins>
 
-[x] Rendering Collections and Modules
-[x] Handling Forms
-[x] Fetching Data from the Server
-[x] Modifying Server Data
-[x] Styling React Applications
+- [x] Rendering Collections and Modules
+- [x] Handling Forms
+- [x] Fetching Data from the Server
+- [x] Modifying Server Data
+- [x] Styling React Applications
 
-### Part 3: Programming a Server with NodeJS and Express
+### <ins>Part 3: Programming a Server with NodeJS and Express</ins>
 
-[x] Introduction to Node.js and Express
-[x] Deploying Applications to the Internet
-[x] Persisting Data with MongoDB
-[x] Data Validation and ESLint
+- [x] Introduction to Node.js and Express
+- [x] Deploying Applications to the Internet
+- [x] Persisting Data with MongoDB
+- [x] Data Validation and ESLint
 
-### Part 4: Testing Express Servers and User Administration
+### <ins>Part 4: Testing Express Servers and User Administration</ins>
 
-[] Backend Application Structure and Introduction to Testing
-[] Writing Tests for the Backend
-[] Implementing User Authentication and Authorization
-[] Token-Based Authentication
+- [] Backend Application Structure and Introduction to Testing
+- [] Writing Tests for the Backend
+- [] Implementing User Authentication and Authorization
+- [] Token-Based Authentication
 
 <!-- ### Part 5: Testing React Applications
 ### Part 6: Advanced State Management
