@@ -19,7 +19,7 @@ Link to application: https://fso-phonebook-dfdu.onrender.com/
 - [x] Introduction to React
 - [x] JavaScript Essentials
 - [x] Component State and Event Handlers
-- [x]Complex State Management and Debugging React Applications
+- [x] Complex State Management and Debugging React Applications
 
 ### <ins>Part 2: Communicating with the Server</ins>
 
@@ -38,10 +38,10 @@ Link to application: https://fso-phonebook-dfdu.onrender.com/
 
 ### <ins>Part 4: Testing Express Servers and User Administration</ins>
 
-- [] Backend Application Structure and Introduction to Testing
-- [] Writing Tests for the Backend
-- [] Implementing User Authentication and Authorization
-- [] Token-Based Authentication
+- [ ] Backend Application Structure and Introduction to Testing
+- [ ] Writing Tests for the Backend
+- [ ] Implementing User Authentication and Authorization
+- [ ] Token-Based Authentication
 
 <!-- ### Part 5: Testing React Applications
 ### Part 6: Advanced State Management
