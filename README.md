@@ -42,7 +42,7 @@ Full Stack Open is a free, open-source online course created by the University o
 - [ ] Implementing User Authentication and Authorization
 - [ ] Token-Based Authentication
 
-### Link to application created from exercises in parts 0 - 4: https://fso-phonebook-dfdu.onrender.com/
+<ins>**Link to application created from exercises in parts 0 - 4**</ins>: https://fso-phonebook-dfdu.onrender.com/
 
 <!-- ### Part 5: Testing React Applications
 ### Part 6: Advanced State Management
