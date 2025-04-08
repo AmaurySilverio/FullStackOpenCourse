@@ -37,14 +37,14 @@ You can view the course [here](https://fullstackopen.com/en/).
 - [x] Persisting Data with MongoDB
 - [x] Data Validation and ESLint
 
+The application created from exercises in parts 0 - 3 can be found [here](https://fso-phonebook-dfdu.onrender.com/).
+
 ### Part 4: <ins>Testing Express Servers and User Administration</ins>
 
 - [ ] Backend Application Structure and Introduction to Testing
 - [ ] Writing Tests for the Backend
 - [ ] Implementing User Authentication and Authorization
 - [ ] Token-Based Authentication
-
-The application created from exercises in parts 0 - 4 can be found [here](https://fso-phonebook-dfdu.onrender.com/).
 
 <!-- ### Part 5: Testing React Applications
 ### Part 6: Advanced State Management
