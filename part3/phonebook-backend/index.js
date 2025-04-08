@@ -12,7 +12,7 @@ app.use(express.static("dist")); //Serves frontend files
 app.use(express.json()); //Parse JSON body
 // Create a custom Morgan token(placeholder) that can be inserted into log format
 morgan.token("body", (req) => JSON.stringify(req.body));
-// use morgan with "tiny" format + request body
+// use morgan with 'tiny' format + request body
 app.use(
   morgan(":method :url :status :res[content-length] - :response-time ms :body")
 );
@@ -62,7 +62,7 @@ app.post("/api/persons", (request, response, next) => {
   }
   // else if (persons.find((person) => person.name === body.name)) {
   //   return response.status(409).json({
-  //     error: "Name must be unique",
+  //     error: 'Name must be unique',
   //   });
   // }
 
