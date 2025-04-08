@@ -95,10 +95,11 @@ const App = () => {
         }, 5000);
       })
       .catch((error) => {
-        setErrorMessage(`Network Error. Please try again.`);
+        setErrorMessage(`${error.response.data.error}`);
         setTimeout(() => {
           setErrorMessage(null);
         }, 5000);
+        console.log(error.response.data.error);
       });
   };
 
