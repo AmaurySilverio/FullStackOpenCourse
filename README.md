@@ -5,23 +5,22 @@
 ## What is Full Stack Open?
 
 Full Stack Open is a free, open-source online course created by the University of Helsinki that teaches modern web development with a focus on JavaScript and React.
-Link to application: https://fso-phonebook-dfdu.onrender.com/
 
 ## Course Contents
 
-### <ins>Part 0: Fundamentals of Web Apps</ins>
+### Part 0: <ins>Fundamentals of Web Apps</ins>
 
 - [x] General Information
 - [x] Fundamentals of Web Applications
 
-### <ins>Part 1: Introduction to React</ins>
+### Part 1: <ins>Introduction to React</ins>
 
 - [x] Introduction to React
 - [x] JavaScript Essentials
 - [x] Component State and Event Handlers
 - [x] Complex State Management and Debugging React Applications
 
-### <ins>Part 2: Communicating with the Server</ins>
+### Part 2: <ins>Communicating with the Server</ins>
 
 - [x] Rendering Collections and Modules
 - [x] Handling Forms
@@ -29,19 +28,21 @@ Link to application: https://fso-phonebook-dfdu.onrender.com/
 - [x] Modifying Server Data
 - [x] Styling React Applications
 
-### <ins>Part 3: Programming a Server with NodeJS and Express</ins>
+### Part 3: <ins>Programming a Server with NodeJS and Express</ins>
 
 - [x] Introduction to Node.js and Express
 - [x] Deploying Applications to the Internet
 - [x] Persisting Data with MongoDB
 - [x] Data Validation and ESLint
 
-### <ins>Part 4: Testing Express Servers and User Administration</ins>
+### Part 4: <ins>Testing Express Servers and User Administration</ins>
 
 - [ ] Backend Application Structure and Introduction to Testing
 - [ ] Writing Tests for the Backend
 - [ ] Implementing User Authentication and Authorization
 - [ ] Token-Based Authentication
+
+### Link to application created from exercises in parts 0 - 4: https://fso-phonebook-dfdu.onrender.com/
 
 <!-- ### Part 5: Testing React Applications
 ### Part 6: Advanced State Management
