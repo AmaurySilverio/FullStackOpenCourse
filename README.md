@@ -41,7 +41,7 @@ The application created from exercises in parts 0 - 3 can be found [here](https:
 
 ### Part 4: <ins>Testing Express Servers and User Administration</ins>
 
-- [ ] Backend Application Structure and Introduction to Testing
+- [x] Backend Application Structure and Introduction to Testing
 - [ ] Writing Tests for the Backend
 - [ ] Implementing User Authentication and Authorization
 - [ ] Token-Based Authentication
