@@ -42,13 +42,25 @@ The application created from exercises in parts 0 - 3 can be found [here](https:
 ### Part 4: <ins>Testing Express Servers and User Administration</ins>
 
 - [x] Backend Application Structure and Introduction to Testing
-- [ ] Writing Tests for the Backend
+- [x] Writing Tests for the Backend
 - [ ] Implementing User Authentication and Authorization
 - [ ] Token-Based Authentication
 
-<!-- ### Part 5: Testing React Applications
-### Part 6: Advanced State Management
+### Part 5: Testing React Applications
+
+- [ ] Implementing Login Functionality in the Frontend
+- [ ] Understanding props.children and PropTypes
+- [ ] Writing Tests for React Applications
+- [ ] End-to-End Testing
+
+<!-- ### Part 6: Advanced State Management
 ### Part 7: React Router, Custom Hooks, and Styling Applications
-### Part 8: GraphQL
+### Part 8: GraphQL -->
+
 ### Part 9: TypeScript
-### Part 10: React Native -->
+
+- [ ] Background and Introduction to TypeScript
+- [ ] Getting Started with TypeScript
+- [ ] Typing an Express Application
+- [ ] Using TypeScript with React
+<!-- ### Part 10: React Native -->
