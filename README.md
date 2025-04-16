@@ -46,7 +46,7 @@ The application created from exercises in parts 0 - 3 can be found [here](https:
 - [ ] Implementing User Authentication and Authorization
 - [ ] Token-Based Authentication
 
-### Part 5: Testing React Applications
+### Part 5: <ins>Testing React Applications</ins>
 
 - [ ] Implementing Login Functionality in the Frontend
 - [ ] Understanding props.children and PropTypes
@@ -57,7 +57,7 @@ The application created from exercises in parts 0 - 3 can be found [here](https:
 ### Part 7: React Router, Custom Hooks, and Styling Applications
 ### Part 8: GraphQL -->
 
-### Part 9: TypeScript
+### Part 9: <ins>TypeScript</ins>
 
 - [ ] Background and Introduction to TypeScript
 - [ ] Getting Started with TypeScript
